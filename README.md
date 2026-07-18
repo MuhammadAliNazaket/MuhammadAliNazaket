@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Ali Nazaket 👋</h1>
-<h3 align="center">Junior Web Developer & Graphic Designer @ FinAware Solutions</h3>
+<h3 align="center">Junior Web Developer & Graphic Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=I+build+fast%2C+modern+web+experiences;Angular+%7C+Node.js+%7C+JavaScript;Turning+ideas+into+real+products" alt="Typing SVG" />
