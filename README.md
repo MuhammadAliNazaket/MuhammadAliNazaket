@@ -1,4 +1,3 @@
-# MuhammadAliNazaket01
 <h1 align="center">Hi there, I'm Muhammad Ali Nazaket 👋</h1>
 <h3 align="center">Junior Web Developer & Graphic Designer @ FinAware Solutions</h3>
 
