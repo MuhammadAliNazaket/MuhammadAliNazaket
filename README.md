@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🎓 BSCS Graduate (2026) — Iqra University, Islamabad
-- 💼 Junior Web Developer & Graphic Designer at **FinAware Solutions**, Islamabad
+- 💼 Junior Web Developer & Graphic Designer, Islamabad
 - 🛠️ I build modern, responsive web apps with **Angular** and **Node.js**
 - 🎨 Also design brand visuals & social content in **Figma** and **Canva**
 - 📍 Based in Islamabad, open to opportunities in Islamabad / Rawalpindi
