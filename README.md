@@ -52,7 +52,7 @@ Final Year Project — AI-powered automated grading system.
 </td>
 <td width="33%">
 
-**🗺️ Google Maps Data Extractor**
+**🗺️ Bussiness-Outreach-Tool**
 Tool to extract structured business data from Google Maps.
 `#Automation` `#DataExtraction`
 
